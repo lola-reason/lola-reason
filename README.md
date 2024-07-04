@@ -20,14 +20,6 @@
 
 At Reason, we believe that the intersection of technology, art, and human experience can create transformative team building and educational opportunities. Our escape rooms are designed not only to challenge and entertain but also to foster teamwork, strategic thinking, and innovative problem solving.
 
-## Employee Development Focus
-
-This GitHub repository is dedicated to the continuous growth and development of our team members. Here you will find:
-- Training materials and manuals
-- Best practices and SOPs
-- Collaborative projects and code samples
-- Company updates and announcements
-
 ## Get Involved
 
 We encourage all employees to actively participate in this repository by:
