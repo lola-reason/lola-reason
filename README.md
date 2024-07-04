@@ -43,8 +43,7 @@ For any questions or further information, feel free to reach out to your team le
 
 ### Connect With Us
 - [Website](https://www.tryreason.com/)
-- [LinkedIn](https://www.linkedin.com/company/reason-future-tech)
-- [Twitter](https://twitter.com/tryreason)
+- [LinkedIn](https://www.linkedin.com/company/tryreason)
 
 Together, let's boldly go where no team has gone before!
 
