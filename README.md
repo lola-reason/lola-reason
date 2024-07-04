@@ -1,7 +1,5 @@
 # Welcome to the Reason Escape Rooms Employee Development Hub
 
-![Reason Escape Rooms Logo](link-to-logo-image)
-
 ## About Reason Escape Rooms
 
 **Reason Escape Rooms** is a pioneering company that merges cutting-edge technology with the immersive experience of escape rooms. Since our inception in 2016, we have transformed traditional escape room experiences by integrating future technologies like virtual reality, robotics, 3D printing, and holograms. Our mission is to humanize our relationship with technology and each other, making team building and collaborative problem solving a fun and engaging adventure.
